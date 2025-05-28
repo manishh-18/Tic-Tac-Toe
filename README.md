@@ -17,13 +17,13 @@ A classic **Tic-Tac-Toe** game built using HTML, CSS, and JavaScript.
 
 👉 [Click here to play online](https://manishh-18.github.io/Tic-Tac-Toe/)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
--HTML5
--CSS3
--JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
-📦 How to Run Locally
+## 📦 How to Run Locally
 
 ```bash
 git clone https://github.com/manishh-18/Tic-Tac-Toe.git
@@ -31,5 +31,5 @@ cd Tic-Tac-Toe
 ```
 Then open index.html in your browser.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
